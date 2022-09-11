@@ -4,7 +4,8 @@ public class AxisBank {
 public void deposit () {
 System.out.println("deposit the money");
 
-System.out.println("new add in nalin");
+System.out.println("mohans code ");
+
 }
 
 
